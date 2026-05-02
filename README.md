@@ -6,7 +6,7 @@ Soy un desarrollador de aplicaciones Web que tambien sabe de desarrollo de video
 Parte del trabajo que he hecho:
 
 ## RoomEdit
-Proyecto que consiste de una aplicación web la cual permitirá a los usuarios crear una sala y comentar en las salas de otros. En las salas, los usuarios que las han creado pueden añadir diferentes imágenes para decorar la sala.
+Proyecto que consiste en una aplicación web la cual permitirá a los usuarios crear una sala y comentar en las salas de otros. En las salas, los usuarios que las han creado pueden añadir diferentes imágenes para decorar la sala.
 <a href="https://github.com/Javier-Coronel/RoomEdit">Repositorio en GitHub</a>
 
 ## FigurineItOut
