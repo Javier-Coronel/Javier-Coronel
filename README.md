@@ -10,6 +10,6 @@ Proyecto que consiste en una aplicación web la cual permitirá a los usuarios c
 <a href="https://github.com/Javier-Coronel/RoomEdit">Repositorio en GitHub</a>
 
 ## FigurineItOut
-Proyecto de juego en el que los usuarios tienen que adivinar que esta modelando un usuario en 3D.
+Proyecto de juego en el que los usuarios tienen que adivinar qué esta modelando un usuario en 3D.
 <a href="https://github.com/Javier-Coronel/FigurineItOut">Repositorio en GitHub</a>
 
